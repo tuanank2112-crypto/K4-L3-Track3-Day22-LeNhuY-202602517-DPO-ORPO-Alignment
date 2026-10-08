@@ -1,0 +1,2 @@
+# Enforce LF for jsonl so that sha256 checksum in judge_summary.json remains deterministic across platforms
+*.jsonl text eol=lf
